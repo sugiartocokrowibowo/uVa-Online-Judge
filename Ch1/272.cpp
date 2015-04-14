@@ -1,7 +1,6 @@
 /******************************************************************************
 
 Author: Richard Mitchell
-Email: Richardt.mitchell@gmail.com  
 Description:  uVa Online Judge 272 - TEX Quotes
 Date Created: 3/2/2015
 Last Modified:
