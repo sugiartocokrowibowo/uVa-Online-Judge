@@ -1,7 +1,6 @@
 /******************************************************************************
 
 Author: Richard Mitchell
-Email: Richardt.mitchell@gmail.com  
 Description:  uVa Online Judge 100 - The 3n + 1 problem
 Date Created: 3/15/2015
 Last Modified:
