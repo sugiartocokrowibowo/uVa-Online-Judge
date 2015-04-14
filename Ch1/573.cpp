@@ -1,7 +1,6 @@
 /******************************************************************************
 
 Author: Richard Mitchell
-Email: Richardt.mitchell@gmail.com  
 Description: 573 - The Snail  
 Date Created: 4/1/15
 Last Modified:
