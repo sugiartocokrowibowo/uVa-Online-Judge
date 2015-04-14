@@ -1,7 +1,6 @@
 /******************************************************************************
 
 Author: Richard Mitchell
-Email: Richardt.mitchell@gmail.com  
 Description:  uVa Online Judge 483 - Word Scrammble
 Date Created: 3/30/2015
 Last Modified:
