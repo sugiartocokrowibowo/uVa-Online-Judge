@@ -37,7 +37,6 @@ int main(int argc, char *argv[])
   sxCode['N'] = "5";
   sxCode['R'] = "6";
 
-  string spacing = "|         |              ";
   string end = "SOUNDEX CODE";
   string name;
   string sxStr = "";
@@ -68,7 +67,7 @@ int main(int argc, char *argv[])
     // how much space between name, and the soundex code
     while (j < 34) {
       cout << " ";
-      j++;
+      ++j;
     }
 
     cout << sxStr << endl;
