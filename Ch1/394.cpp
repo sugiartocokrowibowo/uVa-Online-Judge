@@ -1,7 +1,6 @@
 /******************************************************************************
 
 Author: Richard Mitchell
-Email: Richardt.mitchell@gmail.com  
 Description:  uVa Online Judge 394 - MapMaker
 Date Created: 3/23/2015
 Last Modified:
