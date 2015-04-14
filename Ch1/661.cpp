@@ -1,7 +1,6 @@
 /******************************************************************************
 
 Author: Richard Mitchell
-Email: Richardt.mitchell@gmail.com  
 Description: 661 - Blowing Fuses 
 Date Created: 4/3/15
 Last Modified:
